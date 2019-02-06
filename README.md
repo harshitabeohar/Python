@@ -1,4 +1,4 @@
-# Python
+# Querysearch
 Repository
 <h1>Steps to run querysearch.py</h1>
 
