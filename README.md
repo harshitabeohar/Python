@@ -2,7 +2,6 @@
 Repository
 <h1>Steps to run querysearch.py</h1>
 
-AIPL-LT-765:h$ python querysearch.py -h
 python querysearch.py -h
 usage: querysearch.py [-h] searchtype Value
 
@@ -16,7 +15,7 @@ python querysearch.py orsearch Care,Quality,Commission
 
 search using andsearch
 
-AIPL-LT-765:h$ python querysearch.py andsearch Care,Quality,Commission,admission
+python querysearch.py andsearch Care,Quality,Commission,admission
 python querysearch.py andsearch Care,Quality,Commission,admission
 <br>
 1
