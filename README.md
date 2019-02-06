@@ -1,5 +1,5 @@
 # Querysearch
-Repository
+querysearch code
 <h1>Steps to run querysearch.py</h1>
 
 python querysearch.py -h
